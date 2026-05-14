@@ -6,7 +6,6 @@ categories: [gemini, google, ai]
 description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemini 报错的真实原因，以及亲测有效的修复方法。"
 ---
 
-# Gemini 显示 Something went wrong 怎么办？2026 最新修复教程
 
 ## 前言：Gemini 无法使用？你不是个例
 
@@ -14,9 +13,7 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 
 但不少用户在访问 Gemini 或使用过程中，都会突然看到一个非常令人头疼的提示：
 
-```text
-Something went wrong. Please try again later.
-```
+![something went wrong](assets/images/20260514002/20260427-LOGO.jpgassets/images/20260514002/20260427-LOGO.jpg)
 
 （Google Gemini 出问题了，请稍后再试）
 
