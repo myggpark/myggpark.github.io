@@ -47,7 +47,7 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 
 当 Gemini 报错时，Google 官方帮助中心其实给过一个“看似解释、但几乎没用”的说明：
 
-> Gemini 仅对**符合条件的个人账号、受支持地区、合规年龄、合规浏览器**开放。
+Gemini 仅对**符合条件的个人账号、受支持地区、合规年龄、合规浏览器**开放。
 
 ![Something went wrong的官方原因解析](https://myggpark.github.io/assets/images/20260514001/5-Something%20went%20wrong的官方原因解析.jpg)
 
