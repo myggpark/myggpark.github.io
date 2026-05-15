@@ -43,7 +43,7 @@ description: "Gemini 显示 Something went wrong 怎么办？详解 Google Gemin
 
 ---
 
-# 一、Gemini 显示 “Something went wrong” 的真正原因
+## **一、Gemini 显示 “Something went wrong” 的真正原因**
 
 当 Gemini 报错时，Google 官方帮助中心其实给过一个“看似解释、但几乎没用”的说明：
 
