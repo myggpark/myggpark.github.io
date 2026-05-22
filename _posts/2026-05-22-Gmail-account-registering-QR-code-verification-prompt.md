@@ -13,6 +13,7 @@ description: "注册 Gmail 账号出现“使用手机扫描二维码验证”�
  “**请使用手机扫描二维码完成验证**”
 
 ![扫码注册Gmail](https://myggpark.github.io/assets/images/1-扫码注册Gmail.jpg)
+
 没有输入手机号的选项，也没有短信验证码，只能扫码。
 
 很多人卡在这一步，反复失败，甚至怀疑是不是自己网络或设备出了问题。
@@ -137,7 +138,7 @@ Google 已经系统性地提高了注册门槛，而不是偶发行为。
 
 **1、电脑安装雷电模拟器（安卓真机也行）**
 
-模拟器下载地址：[雷电模拟器](https://cn-v2ray.com/v2rayng-download/)
+模拟器下载地址：[**雷电模拟器**](https://cn-v2ray.com/v2rayng-download/)
 
 **2、配置稳定网络环境**
 
@@ -199,16 +200,16 @@ Google 已经系统性地提高了注册门槛，而不是偶发行为。
 
 大致流程如下：
 
-**平台选择**：[推荐果壳智慧](https://www.guokezhihui.com/)/[e数字产品甄选](https://edigitalchoice.com/)，支持支付宝付款（微信付款的[联系客服](https://img.auctiva.com/imgdata/2/0/1/6/2/8/7/webimg/1163907278_o.jpg)）。
+**平台选择**：[**推荐果壳智慧**](https://www.guokezhihui.com/)/[**e数字产品甄选**](https://edigitalchoice.com/)，支持支付宝付款（微信付款的[联系客服](https://img.auctiva.com/imgdata/2/0/1/6/2/8/7/webimg/1163907278_o.jpg)）。
 
 ![两个网站Gmail](https://myggpark.github.io/assets/5-两个网站Gmail.jpg)
 
-价格：根据自己的预算选定。
+可以根据自己的预算选定想要的Gmail。
 ![Gmail挑选原则](https://myggpark.github.io/assets/Gmail挑选原则.jpg)
 
 购买流程：下单 -> 获得账号/密码/2fa密钥获取谷歌验证码 -> 登录。
 
-**登录提示**：网站所有邮箱为加强安全性都开启了2FA谷歌验证，所以登录时需要获取谷歌验证码，直接用购买时提供的2FA秘钥登录网站：[2fa.live](https://2fa.live/)即可查看。
+**登录提示**：网站所有邮箱为加强安全性都开启了2FA谷歌验证，所以登录时需要获取谷歌验证码，直接用购买时提供的2FA秘钥登录网站：[**2fa.live**](https://2fa.live/)即可查看。
 ![谷歌验证码登录](https://myggpark.github.io/assets/3-谷歌验证码登录-合并PS图.jpg)
 
 ---
