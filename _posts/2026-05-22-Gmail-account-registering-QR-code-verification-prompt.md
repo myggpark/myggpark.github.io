@@ -198,8 +198,14 @@ Google 已经系统性地提高了注册门槛，而不是偶发行为。
  
 
 大致流程如下：
+
 **平台选择**：[推荐果壳智慧](https://www.guokezhihui.com/)/[e数字产品甄选](https://edigitalchoice.com/)，支持支付宝付款（微信付款的[联系客服](https://img.auctiva.com/imgdata/2/0/1/6/2/8/7/webimg/1163907278_o.jpg)）。
+
 ![两个网站Gmail](https://myggpark.github.io/assets/5-两个网站Gmail.jpg)
+
+价格：根据自己的预算选定。
+![Gmail挑选原则](https://myggpark.github.io/assets/Gmail挑选原则.jpg)
+
 购买流程：下单 -> 获得账号/密码/2fa密钥获取谷歌验证码 -> 登录。
 
 **登录提示**：网站所有邮箱为加强安全性都开启了2FA谷歌验证，所以登录时需要获取谷歌验证码，直接用购买时提供的2FA秘钥登录网站：[2fa.live](https://2fa.live/)即可查看。
