@@ -158,7 +158,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **注意事项**：
 
-- 中国手机号可使用**+86**  
+- 中国手机号可使用+**86**  
 - 建议绑定长期**稳定**号码  
 - 不推荐临时虚拟号  
 - 后续找回账号可能仍会用到该号码  
@@ -188,14 +188,18 @@ Google双重验证支持多种方式，可自由组合使用：
 - 选择“**设置身份验证器**”  
 - 点击“**无法扫描**”  
 - 获取**2FA密钥（务必保存）**  
-- 输入6位验证码完成绑定  
+- 输入6位验证码完成绑定
+
+![Google身份验证器设置](https://myggpark.github.io/assets/images/google-two-step-verification-guide/Google身份验证器设置.jpg)
 
 **方法一：验证器App（推荐）**
 
-- 打开 App  
-- 添加账号  
-- 扫描二维码或输入密钥  
-- 输入动态码完成绑定  
+- 打开验证器应用
+- 点击 “+” 添加账号
+- 扫描二维码或手动输入密钥
+- 输入生成验证码完成绑定
+ 
+![Authenticator两种办法同时进行](https://myggpark.github.io/assets/images/google-two-step-verification-guide/Authenticator两种办法同时进行.jpg)
 
 **方法二：在线验证码工具**
 
