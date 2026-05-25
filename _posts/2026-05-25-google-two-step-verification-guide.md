@@ -164,18 +164,16 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **App版**
 
-- [Google Authenticator](https://www.myggpark.com/tag/google-authenticator)
-（**iOS / Android**）  
-- [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app)
-  
+- [Google Authenticator](https://www.myggpark.com/tag/google-authenticator)（**iOS / Android**）  
+- [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app)  
 - [Authy](https://www.myggpark.com/go.html?url=https://www.authy.com/download/)
   
 
 **网页版工具（备用）**：
 
-- 2fa.live  
-- 2fa.show  
-- 2fa.fun  
+- [2fa.live](https://2fa.live/) 
+- [2fa.show](https://2fa.show/)  
+- [2fa.fun](https://2fa.fun/)  
 
 **身份验证器设置流程**：
 
@@ -256,10 +254,10 @@ Google 双重验证，让账号安全从：
 
 如果你的 Google 账号关联了：
 
-- Gmail  
-- YouTube  
-- Google Drive  
-- Google Voice  
+- [Gmail](https://mail.google.com/mail/u/0/)
+- [YouTube](https://www.youtube.com/)  
+- [Google Drive](https://workspace.google.com/products/drive/)  
+- [Google Voice](https://www.myggpark.com/go.html?url=https://voice.google.com/)  
 - 各类第三方登录  
 
 那么强烈建议**立刻开启 2FA**。
@@ -272,7 +270,7 @@ Google 双重验证，让账号安全从：
 
 > **被盗时你有没有第二道防线**
 
-如果你在Google使用过程中遇到问题，或不知道**Gmail邮箱**如何选择，可以在评论区留言，或私信我交流经验。
+如果你在Google使用过程中遇到问题，或不知道[**Gmail邮箱**](https://www.myggpark.com/go.html?url=https://edigitalchoice.com/buy/72)如何选择，可以在评论区留言，或私信我交流经验。
 
 ---
 
