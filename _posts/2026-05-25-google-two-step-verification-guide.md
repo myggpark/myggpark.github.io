@@ -117,9 +117,10 @@ Google双重验证支持多种方式，可自由组合使用：
 - 备用验证码  
 - 安全密钥  
 
-以下以**手机端 Gmail App** 为例说明，电脑端流程基本一致。
+下面以**手机端 Gmail App** 为例说明，电脑端流程基本一致。
 
-**1️⃣ 进入Google账号管理页面**
+**1️⃣ 进入[Google账号管理](https://myaccount.google.com/security?pli=1)
+页面**
 
 打开 **Gmail App** → 点击右上角头像 → 选择 “**管理您的Google 账号**”
 
