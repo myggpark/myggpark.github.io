@@ -29,7 +29,7 @@ Google 双重验证（Two-Step Verification）是一种[**账号安全**](https:
 **登录不仅需要密码，还需要第二种身份确认**
 
 也就是说，即使别人已经知道了你的账号和密码，**没有第二道验证，也无法登录**。
-
+![Google双重验证的两道防线](https://myggpark.github.io/assets/images/google-two-step-verification-guide/Google双重验证的两道防线.jpg)
 常见的第二道验证方式包括：
 
 - 手机短信验证码  
