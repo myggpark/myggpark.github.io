@@ -6,9 +6,9 @@ categories: [google, security, 2fa]
 description: "详细讲解 Google 双重验证（2FA）的原理、开启方法与最佳安全组合方案，适合新手完整配置账号安全。"
 ---
 
-我们日常登录的账号，比如Google、Facebook、YouTube、亚马逊等，几乎都承载着大量重要信息。一旦账号被盗，后果往往不只是“改个密码”这么简单。
+我们日常登录的账号，比如**Google、Facebook、YouTube、亚马逊**等，几乎都承载着大量重要信息。一旦账号被盗，后果往往不只是“改个密码”这么简单。
 
-开启 Google双重验证（Two-Step Verification，简称 2FA），是目前成本最低、效果最明显的账号安全加固方式之一。很多人以为“装了Google Authenticator 就够了”，但实际上它只是双重验证方式中的一种。
+开启**Google双重验证（Two-Step Verification，简称 2FA）**，是目前成本最低、效果最明显的账号安全加固方式之一。很多人以为“装了Google Authenticator 就够了”，但实际上它**只是双重验证方式中的一种**。
 
 这篇文章会系统讲清楚三件事：
 
@@ -16,7 +16,7 @@ description: "详细讲解 Google 双重验证（2FA）的原理、开启方法�
 - 开与不开的本质区别
 - 如何一步一步正确开启（含最佳组合建议）
 
-如果你在用Google账号做任何重要事情，这篇一定要看完。
+如果你在用**Google账号**做任何重要事情，这篇一定要看完。
 
 ---
 
