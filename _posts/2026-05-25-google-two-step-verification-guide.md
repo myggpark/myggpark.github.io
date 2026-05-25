@@ -154,6 +154,8 @@ Google双重验证支持多种方式，可自由组合使用：
 
 验证完成后，返回两步验证页面，点击 “**开启两步验证**”。
 
+![两步验证开启电话验证](https://myggpark.github.io/assets/images/google-two-step-verification-guide/两步验证开启电话验证-汇总.jpg)
+
 **注意事项**：
 
 - 中国手机号可使用**+86**  
