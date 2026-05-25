@@ -171,7 +171,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **App版**
 
-- [Google Authenticator](https://www.myggpark.com/tag/google-authenticator)（**iOS / Android**）  
+- [Google Authenticator（**iOS / Android**）](https://www.myggpark.com/tag/google-authenticator)  
 - [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app)  
 - [Authy](https://www.myggpark.com/go.html?url=https://www.authy.com/download/)
   
@@ -234,13 +234,9 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **7️⃣ Google 提示 & 通行密钥（可选）**
 
-**Google 提示**：
+**Google 提示**：登录时手机弹窗确认“**是**”或数字匹配
 
-登录时手机弹窗确认“**是**”或数字匹配
-
-**通行密钥 / 安全密钥**：
-
-基于指纹、人脸或设备解锁验证，属于增强项，不是必选。
+**通行密钥 / 安全密钥**：基于指纹、人脸或设备解锁验证，属于增强项，不是必选。
 
 ![启用Google双重验证-Google-Passkey](https://myggpark.github.io/assets/images/google-two-step-verification-guide/启用Google双重验证-Google-Passkey.jpg)
 
