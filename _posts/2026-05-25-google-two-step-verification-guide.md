@@ -128,7 +128,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **2️⃣ 进入“安全性与登录”并找到“两步验证”**
 
-切换到“**安全性与登录**”标签页，下滑找到“**两步验证**”。
+切换到“**安全性与登录**”标签页，下滑找到“[**两步验证**](https://www.myggpark.com/tag/%e4%b8%a4%e6%ad%a5%e9%aa%8c%e8%af%81)”。
 
 如果显示为“关闭”，说明当前尚未开启。
 
@@ -164,9 +164,12 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **App版**
 
-- Google Authenticator（**iOS / Android**）  
-- Microsoft Authenticator  
-- Authy  
+- [Google Authenticator](https://www.myggpark.com/tag/google-authenticator)
+（**iOS / Android**）  
+- [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app)
+  
+- [Authy](https://www.myggpark.com/go.html?url=https://www.authy.com/download/)
+  
 
 **网页版工具（备用）**：
 
