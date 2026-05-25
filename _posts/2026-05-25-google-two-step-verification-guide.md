@@ -284,10 +284,6 @@ Google 双重验证，让账号安全从：
 
 ---
 
-## 推荐阅读
-
-- 《》  
-- 《》
 ## 📚 **相关文章推荐**
 
 - [Google 2FA密钥更换教程](https://www.myggpark.com/google/2711.html)
