@@ -38,6 +38,7 @@ Google 双重验证（Two-Step Verification）是一种[**账号安全**](https:
 - 备用验证码  
 - 安全密钥（U盾等）
 ![什么是Google双重验证](https://myggpark.github.io/assets/images/google-two-step-verification-guide/什么是Google双重验证.jpg)
+
 本质上，它让账号安全从：
 
 > **“一把锁” → “两把锁”**
@@ -117,6 +118,8 @@ Google双重验证支持多种方式，可自由组合使用：
 - 备用验证码  
 - 安全密钥  
 
+![Google双重验证方式](https://myggpark.github.io/assets/images/google-two-step-verification-guide/Google双重验证方式.jpg)
+
 下面以**手机端 Gmail App** 为例说明，电脑端流程基本一致。
 
 **1️⃣ 进入[Google账号管理](https://myaccount.google.com/security?pli=1)
@@ -133,6 +136,8 @@ Google双重验证支持多种方式，可自由组合使用：
 如果显示为“关闭”，说明当前尚未开启。
 
 点击进入**开始配置**。
+![手机开启Google双重验证](https://myggpark.github.io/assets/images/google-two-step-verification-guide/手机开启Google双重验证-汇总.jpg)
+
 
 **3️⃣ 再次输入密码确认身份**
 
