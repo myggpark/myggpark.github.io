@@ -290,8 +290,8 @@ Google 双重验证，让账号安全从：
 - 《》
 ## 📚 **相关文章推荐**
 
-- [Google 2FA密钥更换教程]()
-- [Google账号安全设置指南]()
+- [Google 2FA密钥更换教程](https://www.myggpark.com/google/2711.html)
+- [Google账号安全设置指南](https://www.myggpark.com/google/gmail/2408.html)
 - [如何应对Gmail邮箱被反复封禁](https://www.myggpark.com/google/gmail/2390.html)
 - [Google异常案例分析-谷歌登录时发送验证码到一个陌生的手机号码上怎么办？](https://www.myggpark.com/google/2253.html)
 
