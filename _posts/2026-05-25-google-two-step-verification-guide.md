@@ -191,7 +191,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 ---
 
-#### 方法一：验证器App（推荐）
+方法一：验证器App（推荐）
 
 - 打开 App  
 - 添加账号  
@@ -200,7 +200,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 ---
 
-#### 方法二：在线验证码工具
+**方法二：在线验证码工具**
 
 - 粘贴2FA密钥  
 - 获取6位验证码  
@@ -210,7 +210,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 ---
 
-### 6️⃣ 生成备用验证码（防翻车必备）
+**6️⃣ 生成备用验证码（防翻车必备）**
 
 备用验证码是一组一次性8位数字代码（通常10个）。
 
@@ -229,7 +229,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 ---
 
-### 7️⃣ Google 提示 & 通行密钥（可选）
+**7️⃣ Google 提示 & 通行密钥（可选）**
 
 Google 提示：
 
@@ -286,5 +286,27 @@ Google 双重验证，让账号安全从：
 
 ## 推荐阅读
 
-- 《Google 2FA密钥更换教程》  
-- 《Google账号安全设置指南》
+- 《》  
+- 《》
+## 📚 **相关文章推荐**
+
+- [Google 2FA密钥更换教程]()
+- [Google账号安全设置指南]()
+- [如何应对Gmail邮箱被反复封禁](https://www.myggpark.com/google/gmail/2390.html)
+- [Google异常案例分析-谷歌登录时发送验证码到一个陌生的手机号码上怎么办？](https://www.myggpark.com/google/2253.html)
+
+---
+
+## 🔗 **其他资源**
+
+- **数智通｜出海研究站**： [myggpark.com](https://www.myggpark.com)  **主页**
+- **数智通｜跨境严选**：[guokezhihui.com](https://www.guokezhihui.com)  **产品**
+- **数智通｜数字甄选**：[edigitalchoice.com](https://www.edigitalchoice.com)  **产品**
+- **数智通｜海外智选**：[accssupply.com](https://www.accssupply.com)  **产品**
+- **数智通｜服务导航站**：[kuajingchoice.com](https://www.kuajingchoice.com)**导航**
+
+
+📺 **YouTube主页**：[https://www.youtube.com/@myggpark](https://www.youtube.com/@myggpark)
+
+📺 **B站视频主页**：[https://space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
+
