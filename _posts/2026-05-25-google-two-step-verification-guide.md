@@ -207,7 +207,9 @@ Google双重验证支持多种方式，可自由组合使用：
 
 - 粘贴2FA密钥  
 - 获取6位验证码  
-- 输入完成验证  
+- 输入验证码完成验证
+  
+![网站获取2FA验证码](https://myggpark.github.io/assets/images/google-two-step-verification-guide/网站获取2FA验证码.jpg)
 
 ⚠️ 强烈建议**保存密钥或二维码**，用于换机恢复或重新绑定。
 
@@ -220,6 +222,8 @@ Google双重验证支持多种方式，可自由组合使用：
 - 进入“两步验证”页面  
 - 找到“**备用验证码**”  
 - 点击“**获取备用验证码**”  
+
+![Google双重验证之备用验证码设置](https://myggpark.github.io/assets/images/google-two-step-verification-guide/Google双重验证之备用验证码设置.jpg)
 
 **重要特性**：
 
@@ -237,6 +241,8 @@ Google双重验证支持多种方式，可自由组合使用：
 **通行密钥 / 安全密钥**：
 
 基于指纹、人脸或设备解锁验证，属于增强项，不是必选。
+
+![启用Google双重验证-Google-Passkey](https://myggpark.github.io/assets/images/google-two-step-verification-guide/启用Google双重验证-Google-Passkey.jpg)
 
 ---
 
