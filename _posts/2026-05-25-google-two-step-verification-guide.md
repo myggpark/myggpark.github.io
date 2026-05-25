@@ -22,7 +22,7 @@ description: "详细讲解 Google 双重验证（2FA）的原理、开启方法�
 
 ## 一、什么是Google双重验证？
 
-Google 双重验证（Two-Step Verification）是一种**账号安全增强机制**。
+Google 双重验证（Two-Step Verification）是一种[**账号安全**](https://www.myggpark.com/tag/%e8%b4%a6%e5%8f%b7%e5%ae%89%e5%85%a8)**增强机制**。
 
 它的核心逻辑是：
 
@@ -50,15 +50,17 @@ Google 双重验证（Two-Step Verification）是一种**账号安全增强机�
 
 这是很多人最容易混淆、但**也是最关键的一点**。
 
-**✅ 已开启双重验证的账号**
+**✅ 已开启[双重验证](https://www.myggpark.com/tag/%e5%8f%8c%e9%87%8d%e9%aa%8c%e8%af%81)
+的账号**
 
-登录流程是固定的两层验证：
+登录流程是**固定的两层验证**：
 
 **第一步**：输入账号 + 密码  
 **第二步**：再次验证身份，例如：
 
 - 手机验证码  
-- Google Authenticator验证码  
+- [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pli=1)
+验证码  
 - 备用验证码  
 - 设备确认弹窗  
 - 安全密钥  
