@@ -270,7 +270,7 @@ Google 双重验证，让账号安全从：
 - [Gmail](https://mail.google.com/mail/u/0/)
 - [YouTube](https://www.youtube.com/)  
 - [Google Drive](https://workspace.google.com/products/drive/)  
-- [Google Voice](https://www.myggpark.com/go.html?url=https://voice.google.com/)  
+- [Google Voice](https://workspace.google.com/products/voice/)  
 - 各类第三方登录  
 
 那么强烈建议**立刻开启 2FA**。
