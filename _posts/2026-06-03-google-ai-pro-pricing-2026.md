@@ -65,9 +65,8 @@ Google 官方表示：
 
 > Google AI Pro 已覆盖超过 150 个国家和地区。
 
----
 
-### 这是我用 Veo 生成的一段 10 秒视频：
+**这是我用 Veo 生成的一段 10 秒视频：**
 
 > （此处可插入视频链接或 GIF 预览）
 
@@ -98,7 +97,7 @@ Google 官方表示：
 
 > 【此处插入价格对比图片】
 
-### 价格解读
+**价格解读**
 
 Google Gemini 当前页面聚合了各地区可见的应用价格与内购/订阅价格。
 
@@ -120,11 +119,11 @@ Google 会根据当地经济水平、税率以及市场策略调整价格，因�
 
 主要原因有四个：
 
-### 1、地区定价策略（Geo Pricing）
+**1、地区定价策略（Geo Pricing）**
 
 Google 与 Netflix、Spotify、YouTube Premium 一样，会根据不同国家收入水平、消费能力制定不同价格。
 
-### 2、汇率波动
+**2、汇率波动**
 
 部分国家货币波动较大。
 
@@ -137,7 +136,7 @@ Google 与 Netflix、Spotify、YouTube Premium 一样，会根据不同国家收
 
 即使官方价格没有调整，换算成人民币后也会产生明显差异。
 
-### 3、税费机制不同
+**3、税费机制不同**
 
 欧洲、日本等地区通常会包含消费税。
 
@@ -145,7 +144,7 @@ Google 与 Netflix、Spotify、YouTube Premium 一样，会根据不同国家收
 
 而美国很多州则采用后续税费计算方式。
 
-### 4、市场推广策略
+**4、市场推广策略**
 
 Google AI 目前仍处于全球推广阶段。
 
@@ -206,7 +205,7 @@ Google AI 目前仍处于全球推广阶段。
 1. 埃及家庭静态注册 IP + 指纹浏览器搭配支付环境
 2. Google Payment 的支付国家设置为埃及
 
-#### 订阅流程
+**订阅流程：**
 
 1. 前往 Google AI 官网
 2. 点击订阅 Google AI Pro 方案
@@ -220,8 +219,6 @@ Google AI 目前仍处于全球推广阶段。
 
 如果自己操作困难，也可以通过代订服务完成。
 
----
-
 ### 方法二：App Store 低价区 iOS 内购（推荐）
 
 虽然 Gemini 订阅最便宜地区是埃及，但埃及区苹果礼品卡购买渠道相对有限。
@@ -234,12 +231,12 @@ Google AI 目前仍处于全球推广阶段。
 - 礼品卡购买渠道相对成熟
 - 操作门槛较低
 
-#### 核心条件
+**核心条件**
 
 - 土耳其 Apple ID
 - 土耳其苹果礼品卡充值
 
-#### 订阅流程
+**订阅流程**
 
 1. 使用土耳其 Apple ID 登录 App Store
 2. 购买并充值土耳其礼品卡
@@ -249,8 +246,6 @@ Google AI 目前仍处于全球推广阶段。
 6. 使用 App Store 余额付款
 
 > 【此处插入订阅截图】
-
----
 
 ### 方法三：Pixel 免费计划（隐藏福利）
 
@@ -276,7 +271,7 @@ Pixel Pro 系列机型可获得 Google AI Pro 试用权益。
 
 ## 七、常见问题（FAQ）
 
-### Q1：Google AI Pro 哪个国家最便宜？
+**Q1：Google AI Pro 哪个国家最便宜？**
 
 目前公开资料显示：
 
@@ -284,9 +279,7 @@ Pixel Pro 系列机型可获得 Google AI Pro 试用权益。
 
 但实际价格会受到汇率、税费以及 Google 官方调整影响，因此低价区并非长期固定不变。
 
----
-
-### Q2：Google AI Pro 和 Gemini Advanced 是一样的吗？
+**Q2：Google AI Pro 和 Gemini Advanced 是一样的吗？**
 
 基本属于同一体系。
 
@@ -294,9 +287,7 @@ Google 近两年逐步将 Gemini Advanced 整合进 Google AI Pro 计划中。
 
 不过很多旧教程仍然沿用 Gemini Advanced 这个名称。
 
----
-
-### Q3：中国用户可以直接官网订阅 Google AI Pro 吗？
+**Q3：中国用户可以直接官网订阅 Google AI Pro 吗？**
 
 理论上可以。
 
@@ -308,9 +299,7 @@ Google 近两年逐步将 Gemini Advanced 整合进 Google AI Pro 计划中。
 
 因此实际成功率与账号环境和付款方式有关。
 
----
-
-### Q4：Pixel 手机真的可以免费领取 Google AI Pro 一年吗？
+**Q4：Pixel 手机真的可以免费领取 Google AI Pro 一年吗？**
 
 部分 Pixel Pro 系列机型确实可以获得 Google 官方赠送的 Google AI Pro 试用资格。
 
@@ -324,9 +313,7 @@ Google 近两年逐步将 Gemini Advanced 整合进 Google AI Pro 计划中。
 
 并非所有用户都一定能够领取成功。
 
----
-
-### Q5：中国用户应该优先选择低价区吗？
+**Q5：中国用户应该优先选择低价区吗？**
 
 未必。
 
@@ -384,3 +371,5 @@ Google 近两年逐步将 Gemini Advanced 整合进 Google AI Pro 计划中。
 - Google AI Pro 各地区订阅实测记录
 
 帮助大家少走弯路。
+
+
