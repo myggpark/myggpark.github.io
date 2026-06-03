@@ -371,5 +371,26 @@ Google 近两年逐步将 Gemini Advanced 整合进 Google AI Pro 计划中。
 - Google AI Pro 各地区订阅实测记录
 
 帮助大家少走弯路。
+---
+
+## 📚 **相关文章推荐**
+
+- [Google 2FA密钥更换教程](https://www.myggpark.com/google/2711.html)
+- [Google账号安全设置指南](https://www.myggpark.com/google/gmail/2408.html)
+- [如何应对Gmail邮箱被反复封禁](https://www.myggpark.com/google/gmail/2390.html)
+- [Google异常案例分析-谷歌登录时发送验证码到一个陌生的手机号码上怎么办？](https://www.myggpark.com/google/2253.html)
+
+---
+
+## 🔗 **其他资源**
+
+- **数智通｜出海研究站**： [myggpark.com](https://www.myggpark.com)  **主页**
+- **数智通｜跨境严选**：[guokezhihui.com](https://www.guokezhihui.com)  **产品**
+- **数智通｜数字甄选**：[edigitalchoice.com](https://www.edigitalchoice.com)  **产品**
+- **数智通｜海外智选**：[accssupply.com](https://www.accssupply.com)  **产品**
+- **数智通｜服务导航站**：[kuajingchoice.com](https://www.kuajingchoice.com)**导航**
+
+📺 **YouTube主页**：[https://www.youtube.com/@myggpark](https://www.youtube.com/@myggpark)
+📺 **B站视频主页**：[https://space.bilibili.com/3546696399194431](https://space.bilibili.com/3546696399194431)
 
 
