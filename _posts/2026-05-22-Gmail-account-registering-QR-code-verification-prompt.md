@@ -12,7 +12,7 @@ description: "注册 Gmail 账号出现“使用手机扫描二维码验证”�
 
  “**请使用手机扫描二维码完成验证**”
 
-![扫码注册Gmail](https://myggpark.github.io/assets/images/1-扫码注册Gmail.jpg)
+![扫码注册Gmail](https://myggpark.github.io/assets/images/Gmail-account-registering-QR-code-verification-prompt/1-扫码注册Gmail.jpg)
 
 没有输入手机号的选项，也没有短信验证码，只能扫码。
 
