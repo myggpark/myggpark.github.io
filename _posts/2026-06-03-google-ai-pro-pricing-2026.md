@@ -68,7 +68,7 @@ Google AI Pro 结合了 ChatGPT Plus、Midjourney AI、Notion AI 和云盘功能
 
 **这是我用 Veo 生成的一段 10 秒视频：**
 
-> （此处可插入视频链接或 GIF 预览）
+[▶ 视频演示](https://www.myggpark.com/wp-content/uploads/2026/05/2026053110362840.mp4)
 
 ---
 
