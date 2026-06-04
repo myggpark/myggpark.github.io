@@ -27,7 +27,7 @@ description: "2026最新Google AI Pro全球价格整理，汇总美国、香港�
 例如：
 
 | 国家/地区 | 价格 | 折合人民币 |
-|-----------|-------|-----------|
+|--------------|----------|--------------|
 | 美国 | 19.99 美元/月 | 136 RMB |
 | 香港 | 158 HKD/月 | 137 RMB |
 | 土耳其 | 719.99 里拉/月 | 106 RMB |
@@ -42,9 +42,9 @@ description: "2026最新Google AI Pro全球价格整理，汇总美国、香港�
 
 ## 一、Google AI Pro 是什么？
 
-Google AI Pro 是 Google 当前面向个人用户推出的 AI 订阅服务，它实际上就是此前 Google One AI Premium 的升级命名版本。
+**Google AI Pro** 是 Google 当前面向个人用户推出的 AI 订阅服务，它实际上就是此前 Google One AI Premium 的升级命名版本。
 
-官方确认：
+**官方确认：**
 
 > Google 近年来逐步将 Google One AI Premium 体系升级为 Google AI Pro 品牌，并持续调整套餐名称和权益结构，核心权益保持一致。
 
@@ -57,11 +57,11 @@ Google AI Pro 是 Google 当前面向个人用户推出的 AI 订阅服务，它
 - Gmail / Docs / Sheets AI 集成
 - 2TB Google One 云存储
 
-简单理解：
+**简单理解：**
 
 Google AI Pro 结合了 ChatGPT Plus、Midjourney AI、Notion AI 和云盘功能，适合需要多种 AI 工具整合的用户。
 
-Google 官方表示：
+**Google 官方表示：**
 
 > Google AI Pro 已覆盖超过 150 个国家和地区。
 
