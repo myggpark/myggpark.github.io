@@ -103,7 +103,7 @@ Google 已经系统性地提高了注册门槛，而不是偶发行为。
 
 **“验证你的手机号码”**，但并没有让你输入号码。
 
-![安卓手机电话验证](https://myggpark.github.io/assets/安卓手机电话验证.jpg)
+![安卓手机电话验证](https://myggpark.github.io/assets/images/Gmail-account-registering-QR-code-verification-prompt/安卓手机电话验证.jpg)
 
 这类情况，本质上和扫码验证属于**同一套逻辑**。
 
