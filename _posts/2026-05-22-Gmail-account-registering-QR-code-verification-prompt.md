@@ -152,7 +152,7 @@ Google 已经系统性地提高了注册门槛，而不是偶发行为。
 
  **3、进入模拟器的 Play 商店后注册 Google 账号**
 
-![安装模拟器的过程](https://myggpark.github.io/assets/7-安装模拟器的过程.png)
+![安装模拟器的过程](https://myggpark.github.io/assets/images/Gmail-account-registering-QR-code-verification-prompt/7-安装模拟器的过程.png)
 
 
 **4、在手机号验证阶段，使用真实、干净的号码**
@@ -201,15 +201,15 @@ Google 已经系统性地提高了注册门槛，而不是偶发行为。
 
 **平台选择**：[**推荐果壳智慧**](https://www.guokezhihui.com/)/[**e数字产品甄选**](https://edigitalchoice.com/)，支持支付宝付款（微信付款的[**联系客服**](https://img.auctiva.com/imgdata/2/0/1/6/2/8/7/webimg/1163907278_o.jpg)）。
 
-![两个网站Gmail](https://myggpark.github.io/assets/5-两个网站Gmail.jpg)
+![两个网站Gmail](https://myggpark.github.io/assets/images/Gmail-account-registering-QR-code-verification-prompt/5-两个网站Gmail.jpg)
 
 可以根据自己的预算选定想要的Gmail。
-![Gmail挑选原则](https://myggpark.github.io/assets/Gmail挑选原则.jpg)
+![Gmail挑选原则](https://myggpark.github.io/assets/images/Gmail-account-registering-QR-code-verification-prompt/Gmail挑选原则.jpg)
 
 购买流程：下单 -> 获得账号/密码/2fa密钥获取谷歌验证码 -> 登录。
 
 **登录提示**：网站所有邮箱为加强安全性都开启了2FA谷歌验证，所以登录时需要获取谷歌验证码，直接用购买时提供的2FA秘钥登录网站：[**2fa.live**](https://2fa.live/)即可查看。
-![谷歌验证码登录](https://myggpark.github.io/assets/3-谷歌验证码登录-合并PS图.jpg)
+![谷歌验证码登录](https://myggpark.github.io/assets/images/Gmail-account-registering-QR-code-verification-prompt/3-谷歌验证码登录-合并PS图.jpg)
 
 **更省事的思路**
 
