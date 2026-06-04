@@ -171,7 +171,7 @@ Google双重验证支持多种方式，可自由组合使用：
 
 **App版**
 
-- [Google Authenticator（**iOS / Android**）](https://www.myggpark.com/tag/google-authenticator)  
+- [Google Authenticator](https://www.myggpark.com/tag/google-authenticator)（**[iOS ](https://apps.apple.com/jp/app/google-authenticator/id388497605)/ [Android ](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)**）  
 - [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app)  
 - [Authy](https://www.myggpark.com/go.html?url=https://www.authy.com/download/)
   
